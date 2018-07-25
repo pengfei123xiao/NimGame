@@ -1,9 +1,11 @@
 # NimGame
-A simple java program realizing the game of Nim. 
+A simple java program realizing the game of Nim.   
+
 --Some specific functions:
 1.Contains a function to add AI player and a victory guaranteed strategy for AI player;
 2.Able to handle invalid input via Exceptions;
-3.Files are created to write(read) the game statistics.
+3.Files are created to write(read) the game statistics.  
+
 --Operation commands:
 $addplayer username,family_name,given_name //Add new players to the game.
 $removeplayer username //Remove a user.
